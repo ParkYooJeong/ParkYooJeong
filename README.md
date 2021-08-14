@@ -7,6 +7,8 @@
 <br>
 <p align="center">I was educated in web development at SSAFY(Samsung Software Academy for Youth) as a 4th generation</p>
 <p align="center">I am currently working at Samsung SDS in Korea.</p>
+<br>
+
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-fe2e2e?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -21,7 +23,9 @@
 <img src="https://img.shields.io/badge/Docker-01dfd7?style=flat-square&logo=Docker&logoColor=blue"/></a>&nbsp 
 </p>
 <br>
-
+<br>
+<br>
+<br>
 <p align="center">
 <a href="https://solved.ac/bakyj96/">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bakyj96" />
