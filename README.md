@@ -5,7 +5,7 @@
 <h4 align="center"> I like to learn and use new skills. I always think about clean code.</h4>
 <h4 align="center">✨I'm studying to be the best developer✨</h4>
 <br>
-<p align="center">I was educated in web development at SSAFY(Samsung Software Academy for Youth) as a 4th generation</p>
+<p align="center">I was educated in web development at SSAFY(Samsung Software Academy for Youth) as 4th generation</p>
 <p align="center">I am currently working at Samsung SDS in Korea.</p>
 <br>
 
