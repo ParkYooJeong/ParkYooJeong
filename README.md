@@ -6,7 +6,7 @@
 <h4 align="center">✨I'm studying to be the best developer✨</h4>
 <br>
 <p align="center">I was educated in web development at SSAFY(Samsung Software Academy for Youth) as 4th generation</p>
-<p align="center">I am currently working at Samsung SDS in Korea.</p>
+<p align="center">I am currently working at SAMSUNG SDS in South Korea.</p>
 <br>
 
 <h3 align="center">🛠Tech Stack🛠</h3>
