@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YooJeong%20Park&fontSize=90&&animation=fadeIn)
 
-<h3 align="center"> I want to be a  Backend Engineer💻</h3>
+<h3 align="center"> Backend Engineer💻</h3>
 <h4 align="center"> I like to learn and use new skills. I always think about clean code.</h4>
 <h4 align="center">✨I'm studying to be the best developer✨</h4>
 <br>
