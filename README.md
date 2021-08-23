@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Jira-1C1C1C?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-fe642e?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Docker-01dfd7?style=flat-square&logo=Docker&logoColor=blue"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 <br>
